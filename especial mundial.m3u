@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial" group-title="OTROS", Dazn Mundial 1 ** --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial" group-title="MUNDIAL FIFA 2026", Dazn Mundial 1 ** --> ELCANO
 acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png" tvg-id="DAZN Mundial 2" group-title="OTROS", Dazn Mundial 2 ** --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png" tvg-id="DAZN Mundial 2" group-title="MUNDIAL FIFA 2026", Dazn Mundial 2 ** --> ELCANO
 acestream://63b1933154919d116f08e33ffcb31a23f9483989
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%203.png" tvg-id="DAZN Mundial 3" group-title="OTROS", Dazn Mundial 3 ** --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%203.png" tvg-id="DAZN Mundial 3" group-title="MUNDIAL FIFA 2026", Dazn Mundial 3 ** --> ELCANO
 acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%204.png" tvg-id="DAZN Mundial 4" group-title="OTROS", Dazn Mundial 4 ** --> ELCANO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%204.png" tvg-id="DAZN Mundial 4" group-title="MUNDIAL FIFA 2026", Dazn Mundial 4 ** --> ELCANO
 acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
