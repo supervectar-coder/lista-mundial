@@ -14,5 +14,5 @@ acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%204.png" tvg-id="DAZN Mundial 4" group-title="DAZN MUNDIAL FIFA 2026", Dazn Mundial 4 ** --> ELCANO
 acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1" group-title="TVE", LA 1 --> ELCANO (SOLO PARTIDOS ESPAÑA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 SD" group-title="TVE", LA 1 --> ELCANO (SOLO PARTIDOS ESPAÑA)
 acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c
