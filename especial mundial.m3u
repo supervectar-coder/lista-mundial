@@ -5,6 +5,8 @@ acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Fanzone.png" tvg-id="M+ Fanzone" group-title="M+ MUNDIAL FIFA 2026",M+ FANZONE (AMISTOSOS)
 acestream://caa631e8850e3eb5e7c039063dd8a339ccef1176
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial" group-title="DAZN MUNDIAL FIFA 2026", Dazn Mundial 1 * --> ELCANO
+acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial" group-title="DAZN MUNDIAL FIFA 2026", Dazn Mundial 1 ** --> ELCANO
 acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png" tvg-id="DAZN Mundial 2" group-title="DAZN MUNDIAL FIFA 2026", Dazn Mundial 2 ** --> ELCANO
