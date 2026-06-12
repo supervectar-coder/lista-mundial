@@ -16,5 +16,16 @@ acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%204.png" tvg-id="DAZN Mundial 4" group-title="DAZN MUNDIAL FIFA 2026", Dazn Mundial 4 ** --> ELCANO
 acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial" group-title="DAZN MUNDIAL FIFA 2026",DAZN FIFA 1--> NEW ERA III
+acestream://b2bf586e7ddc31352f120c9274c1441dea3f5418
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png" tvg-id="DAZN Mundial 2" group-title="DAZN MUNDIAL FIFA 2026",DAZN FIFA 2--> NEW ERA III
+acestream://1b6ff4ead1ce4ae797dcb889dbd1fd5f5536128a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%203.png" tvg-id="DAZN Mundial 3" group-title="DAZN MUNDIAL FIFA 2026",DAZN FIFA 3--> NEW ERA III
+acestream://72abfc79fb0732a2bd98af649e9822d00343fecf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%204.png" tvg-id="DAZN Mundial 4" group-title="DAZN MUNDIAL FIFA 2026",DAZN FIFA 4--> NEW ERA III
+acestream://469564b10f5f5aba378c3e71bfd91bcd05f052b7
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" tvg-id="La 1 SD" group-title="TVE", LA 1 --> ELCANO (SOLO PARTIDOS ESPAÑA)
 acestream://379192c3ee5a15570e2c685179bc53cb7133cc6c
+
+
